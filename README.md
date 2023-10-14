@@ -1,5 +1,5 @@
 # Proyecto-Topicos
-Este es un pequeño programa de la asignatura de Ingenieria en sistemas del semestre 4 computacionales, con el propósito de entender las Windows aplications, y las base de datos 
+Este es un pequeño programa de la asignatura Topicos Avanzados de programación de Ingenieria en sistemas del semestre 4 computacionales, con el propósito de entender las Windows aplications, y las base de datos 
 
 ![Imagen de WhatsApp 2023-03-16 a las 16 24 12_272f89de](https://github.com/JJoosh/Proyecto-Topicos/assets/122099216/6fdf3dfb-1ca7-4682-a7b7-a8fba8256865)
 ![Imagen de WhatsApp 2023-04-27 a las 15 22 42_381d5c24](https://github.com/JJoosh/Proyecto-Topicos/assets/122099216/9522d07f-80b6-4283-a0d7-8b89ca0a5cd7)
